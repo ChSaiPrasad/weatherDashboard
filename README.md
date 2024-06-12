@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+<img width="785" alt="image" src="https://github.com/ChSaiPrasad/weatherDashboard/assets/124672215/bfe68275-9fa7-4cf5-9bb5-c0e4afe4607b">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
